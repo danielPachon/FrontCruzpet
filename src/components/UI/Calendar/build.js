@@ -1,0 +1,3 @@
+
+import 'moment/locale/es';
+

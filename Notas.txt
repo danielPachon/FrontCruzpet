@@ -1,0 +1,13 @@
+Kevin:
+ Ofertas -> Panel de ofertas para agregarlas y para administrarlas
+ Configuración -> Actualizar perfil de la IPSA, dejar modificar colores que ellos prefieran en cuanto a logo,
+ nombre
+ Done ~ Veterinarios -> Traer todos los perfiles de los veterinarios asociados a la IPSA
+ Citas -> Calendario con las Citas de los veterinarios asociados a la Ipsa. Además, un agendamineto de Citas
+ (Agregar )Historial Clínico -> Consultar historia clínica
+ Dashboard (Panel IPSA) sea -> Estadisticas -> Pacientes al mes, ingresos mensuales
+ 
+ Crear Mascotas
+ consultar Historia clinica
+ consultar carnet de vacunacion
+ Emitir Recibos
